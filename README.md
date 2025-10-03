@@ -2,4 +2,4 @@
 
 GraphQL Queries for Identity Data
 
-At the time of writing this, PSFalcon does not yet have options for pulling in Identity data, so figuring out how to query this was necessary. Since, for me, GraphQL queries were a bit of a learning curve, I am sharing Powershell versions I have had some luck with.
+At the time of making this, I was not able to figure out how to get this same data with PSFalcon, though that may no longer be the case.  It is well worth checking there first if you are looking for more ways to access your Identity data:  https://github.com/CrowdStrike/psfalcon/wiki  
